@@ -1,4 +1,4 @@
-This documentation describes how to use the Pavel automated toothbrush in detail.
+This documentation describes how to use the Pavel automated toothbrush in detail. Complete the below steps:
 
 Note that this toothbrush is safe to use for children, adults, pets, wildlife, trees, and birds.
 
